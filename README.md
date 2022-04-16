@@ -1,2 +1,2 @@
-# OldWebsite
-Old Personal Website using CSS bootstrap, HTML, JS
+## Previous website using Javascript, CSS, HTML, Bootstrap
+See new website here: https://nicktill.github.io
